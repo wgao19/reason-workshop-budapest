@@ -1,5 +1,11 @@
 # reason-workshop-budapest
 
+_Budapest. Sept 24, 2019_
+
+- [Original repo](https://github.com/matystl/reason-workshop-budapest)
+- [Pokemon API](https://pokura.matystl.now.sh/)
+- [Belt API](https://bucklescript.github.io/bucklescript/api/Belt.html)
+
 ## Steps to do before workshop
 
 - install `vscode` https://code.visualstudio.com
